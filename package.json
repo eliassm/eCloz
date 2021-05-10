@@ -5,7 +5,7 @@
   "homepage": "https://seniordev-rt96.github.io/eCommerce-react-app/",
   "dependencies": {
     "amazon-product-api": "^0.4.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-animate-css": "0.0.1",
